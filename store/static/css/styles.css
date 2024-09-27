@@ -1,0 +1,58 @@
+/* Google Fonts */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Hero Section */
+.hero-section {
+    background: url('../images/hero-bg.jpg') center/cover no-repeat;
+    padding: 100px 0;
+    color: white;
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.hero-section p {
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+/* Products Section */
+.products-section {
+    background-color: #fff;
+}
+
+.products-section .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.products-section .card-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.products-section .card-text {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+/* Contact Section */
+.contact-section {
+    background-color: #f1f1f1;
+    padding: 50px 0;
+}
+
+/* Footer */
+footer {
+    background-color: #343a40;
+}
+
+footer p {
+    margin: 0;
+}
